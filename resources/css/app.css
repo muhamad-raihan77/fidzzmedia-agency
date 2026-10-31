@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif;
+  --color-brand-blue: #2563EB;
+  --color-brand-blue-dark: #1D4ED8;
+  --color-brand-yellow: #F59E0B;
+  --color-brand-yellow-hover: #D97706;
+  --color-brand-navy: #0B132B;
+  --color-brand-navy-dark: #070D1E;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}

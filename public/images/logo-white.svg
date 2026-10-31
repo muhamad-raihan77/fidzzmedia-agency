@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" fill="none">
+    <!-- Stylized F Mark -->
+    <rect x="2" y="8" width="12" height="48" rx="4" fill="#3B82F6"/>
+    <path d="M14 10H38C40.2091 10 42 11.7909 42 14V18C42 20.2091 40.2091 22 38 22H14V10Z" fill="#3B82F6"/>
+    <path d="M14 28H32C34.2091 28 36 29.7909 36 32V36C36 38.2091 34.2091 40 32 40H14V28Z" fill="#F59E0B"/>
+    <!-- Wordmark -->
+    <text x="56" y="34" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-weight="800" font-size="26" fill="#FFFFFF" letter-spacing="-0.5">Fidzz<tspan fill="#60A5FA">Teck</tspan></text>
+    <text x="58" y="49" font-family="'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-weight="600" font-size="9.5" fill="#94A3B8" letter-spacing="2.8">DIGITAL SOLUTIONS</text>
+</svg>
+
